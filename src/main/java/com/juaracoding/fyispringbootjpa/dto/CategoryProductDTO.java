@@ -15,6 +15,7 @@ public class CategoryProductDTO {
     private String nameCategoryProduct;
     private String strDescCategoryProduct;
 
+
     public Long getIdCategoryProduct() {
         return idCategoryProduct;
     }
